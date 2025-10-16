@@ -56,7 +56,7 @@ export function MainForm() {
     <form onSubmit={handleCreateNewTask} className='form' action=''>
       <div className='formRow'>
         <DefaultInput
-          labelText='task'
+          labelText='tarefa'
           id='inputTask'
           type='text'
           placeholder='Ex: Estudar para prova...'

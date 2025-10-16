@@ -85,7 +85,7 @@ export function History() {
     <MainTemplate>
       <Container>
         <Heading>
-          <span>History</span>
+          <span>Historico</span>
           {hasTasks && (
             <span className={styles.buttonContainer}>
               <DefaultButton
